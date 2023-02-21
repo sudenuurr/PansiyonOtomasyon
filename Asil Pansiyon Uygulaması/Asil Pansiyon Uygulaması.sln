@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asil Pansiyon Uygulaması", "Asil Pansiyon Uygulaması\Asil Pansiyon Uygulaması.csproj", "{7AA5129D-98ED-4EAE-9F9F-4179C79BD908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AA5129D-98ED-4EAE-9F9F-4179C79BD908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA5129D-98ED-4EAE-9F9F-4179C79BD908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA5129D-98ED-4EAE-9F9F-4179C79BD908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA5129D-98ED-4EAE-9F9F-4179C79BD908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D0083D9-22D9-45F8-80E7-0121A36976FC}
+	EndGlobalSection
+EndGlobal
